@@ -1,5 +1,6 @@
 variant,orderDate,orderTime,audience,pet_age_range,pet_size,current_brand
 Culinary Harvest Turkey Herring Kibble,2026-09-24,00:20:45,smas,1-6 Years,Medium (31lbs to 69lbs),Blue Buffalo
+Culinary Harvest Turkey Herring Kibble,2026-10-10,00:11:28,meta,1-6 Years,Small (up to 30lbs),Nutri Source
 Culinary Harvest Turkey Herring Kibble,2026-09-22,05:18:00,meta,1-6 Years,Medium (31lbs to 69lbs),Other
 Culinary Harvest Turkey Herring Kibble,2026-10-05,19:17:08,meta,1-6 Years,Medium (31lbs to 69lbs),Blue Buffalo
 Culinary Harvest Turkey Herring Kibble,2026-10-07,20:35:10,smas,1-6 Years,Large (70lbs and over),Other
@@ -243,6 +244,7 @@ Culinary Harvest Turkey Herring Kibble,2026-09-21,22:51:12,meta,7+ Years,Medium 
 Culinary Harvest Turkey Herring Kibble,2026-10-05,21:28:58,meta,7+ Years,Small (up to 30lbs),Other
 Culinary Harvest Turkey Herring Kibble,2026-09-17,03:12:02,meta,1-6 Years,Large (70lbs and over),Purina
 Culinary Harvest Turkey Herring Kibble,2026-09-09,00:13:24,smas,7+ Years,Small (up to 30lbs),Other
+Culinary Harvest Turkey Herring Kibble,2026-10-10,00:18:27,meta,1-6 Years,Medium (31lbs to 69lbs),Open Farm
 Culinary Harvest Turkey Herring Kibble,2026-09-07,19:47:47,meta,1-6 Years,Large (70lbs and over),Other
 Culinary Harvest Turkey Herring Kibble,2026-10-07,04:47:20,smas,7+ Years,Medium (31lbs to 69lbs),Blue Buffalo
 Culinary Harvest Turkey Herring Kibble,2026-10-09,23:30:01,audience_1,1-6 Years,Small (up to 30lbs),Hill's Science Diet
@@ -1324,6 +1326,7 @@ Culinary Harvest Turkey Herring Kibble,2026-09-15,19:11:51,meta,7+ Years,Small (
 Culinary Harvest Turkey Herring Kibble,2026-10-07,01:32:58,meta,1-6 Years,Large (70lbs and over),Purina
 Culinary Harvest Turkey Herring Kibble,2026-09-04,20:53:37,meta,7+ Years,Small (up to 30lbs),Nulo
 Culinary Harvest Turkey Herring Kibble,2026-09-05,19:53:59,meta,7+ Years,Medium (31lbs to 69lbs),Purina
+Culinary Harvest Turkey Herring Kibble,2026-10-09,23:49:47,meta,1-6 Years,Small (up to 30lbs),Hill's Science Diet
 Culinary Harvest Turkey Herring Kibble,2026-10-07,05:51:18,meta,1-6 Years,Medium (31lbs to 69lbs),Other
 Culinary Harvest Turkey Herring Kibble,2026-09-23,23:38:11,smas,1-6 Years,Medium (31lbs to 69lbs),Other
 Culinary Harvest Turkey Herring Kibble,2026-09-13,21:39:17,meta,1-6 Years,Medium (31lbs to 69lbs),Other
@@ -2196,6 +2199,7 @@ Culinary Harvest Turkey Herring Kibble,2026-09-01,15:13:19,meta,1-6 Years,Small 
 Culinary Harvest Turkey Herring Kibble,2026-10-07,05:59:25,smas,7+ Years,Small (up to 30lbs),Purina
 Culinary Harvest Turkey Herring Kibble,2026-09-23,21:29:52,smas,1-6 Years,Small (up to 30lbs),Taste of the Wild
 Culinary Harvest Turkey Herring Kibble,2026-10-06,17:54:28,smas,1-6 Years,Medium (31lbs to 69lbs),Other
+Culinary Harvest Turkey Herring Kibble,2026-10-09,23:32:13,meta,1-6 Years,Small (up to 30lbs),Purina
 Culinary Harvest Turkey Herring Kibble,2026-10-06,17:49:17,smas,1-6 Years,Medium (31lbs to 69lbs),Purina
 Culinary Harvest Turkey Herring Kibble,2026-09-13,02:25:08,meta,7+ Years,Medium (31lbs to 69lbs),Purina
 Culinary Harvest Turkey Herring Kibble,2026-10-09,21:08:13,meta,1-6 Years,Small (up to 30lbs),Nulo
@@ -2754,6 +2758,7 @@ Culinary Harvest Turkey Herring Kibble,2026-09-17,23:59:11,meta,1-6 Years,Small 
 Culinary Harvest Turkey Herring Kibble,2026-10-09,14:22:06,meta,7+ Years,Small (up to 30lbs),Nulo
 Culinary Harvest Turkey Herring Kibble,2026-10-07,21:19:27,smas,7+ Years,Small (up to 30lbs),Other
 Culinary Harvest Turkey Herring Kibble,2026-09-28,00:11:47,smas,1-6 Years,Medium (31lbs to 69lbs),Blue Buffalo
+Culinary Harvest Turkey Herring Kibble,2026-10-10,00:19:55,smas,7+ Years,Medium (31lbs to 69lbs),Purina
 Culinary Harvest Turkey Herring Kibble,2026-10-08,22:41:06,smas,1-6 Years,Medium (31lbs to 69lbs),Purina
 Culinary Harvest Turkey Herring Kibble,2026-09-23,23:25:20,smas,7+ Years,Small (up to 30lbs),Purina
 Culinary Harvest Turkey Herring Kibble,2026-10-09,02:16:40,smas,1-6 Years,Small (up to 30lbs),Orijen
@@ -2931,6 +2936,7 @@ Culinary Harvest Turkey Herring Kibble,2026-10-06,04:42:50,meta,1-6 Years,Medium
 Culinary Harvest Turkey Herring Kibble,2026-10-09,17:48:35,smas,1-6 Years,Small (up to 30lbs),Blue Buffalo
 Culinary Harvest Turkey Herring Kibble,2026-10-05,17:02:25,meta,7+ Years,Large (70lbs and over),Other
 Culinary Harvest Turkey Herring Kibble,2026-09-23,21:57:16,smas,Under One Year,Medium (31lbs to 69lbs),Blue Buffalo
+Culinary Harvest Turkey Herring Kibble,2026-10-10,00:21:25,meta,1-6 Years,Small (up to 30lbs),Other
 Culinary Harvest Turkey Herring Kibble,2026-09-04,15:00:17,meta,7+ Years,Large (70lbs and over),Other
 Culinary Harvest Turkey Herring Kibble,2026-10-08,04:59:16,meta,7+ Years,Medium (31lbs to 69lbs),Blue Buffalo
 Culinary Harvest Turkey Herring Kibble,2026-09-05,00:06:19,meta,1-6 Years,Medium (31lbs to 69lbs),Purina
@@ -3447,6 +3453,7 @@ Culinary Harvest Turkey Herring Kibble,2026-10-07,14:55:34,smas,1-6 Years,Large 
 Culinary Harvest Turkey Herring Kibble,2026-09-17,23:30:43,meta,7+ Years,Medium (31lbs to 69lbs),Purina
 Culinary Harvest Turkey Herring Kibble,2026-09-09,20:38:47,smas,Under One Year,Medium (31lbs to 69lbs),Hill's Science Diet
 Culinary Harvest Turkey Herring Kibble,2026-09-09,13:21:02,meta,7+ Years,Medium (31lbs to 69lbs),Nulo
+Culinary Harvest Turkey Herring Kibble,2026-10-10,00:27:24,meta,Under One Year,Small (up to 30lbs),Nutri Source
 Culinary Harvest Turkey Herring Kibble,2026-10-08,06:02:12,smas,1-6 Years,Small (up to 30lbs),Hill's Science Diet
 Culinary Harvest Turkey Herring Kibble,2026-09-14,12:36:36,meta,1-6 Years,Small (up to 30lbs),Other
 Culinary Harvest Turkey Herring Kibble,2026-10-08,22:13:14,smas,1-6 Years,Small (up to 30lbs),Other
@@ -3557,6 +3564,7 @@ Culinary Harvest Turkey Herring Kibble,2026-10-07,19:52:43,smas,1-6 Years,Medium
 Culinary Harvest Turkey Herring Kibble,2026-10-09,03:11:37,meta,Under One Year,Small (up to 30lbs),Other
 Culinary Harvest Turkey Herring Kibble,2026-10-05,22:23:48,meta,1-6 Years,Large (70lbs and over),Taste of the Wild
 Culinary Harvest Turkey Herring Kibble,2026-09-07,17:53:46,smas,7+ Years,Medium (31lbs to 69lbs),Purina
+Culinary Harvest Turkey Herring Kibble,2026-10-10,00:15:25,meta,7+ Years,Small (up to 30lbs),Nulo
 Culinary Harvest Turkey Herring Kibble,2026-10-07,23:18:28,smas,7+ Years,Small (up to 30lbs),Nulo
 Culinary Harvest Turkey Herring Kibble,2026-10-06,02:31:51,meta,7+ Years,Small (up to 30lbs),Merrick
 Culinary Harvest Turkey Herring Kibble,2026-09-07,17:14:12,smas,1-6 Years,Large (70lbs and over),Blue Buffalo
@@ -3573,6 +3581,7 @@ Culinary Harvest Turkey Herring Kibble,2026-09-18,00:25:32,meta,7+ Years,Medium 
 Culinary Harvest Turkey Herring Kibble,2026-09-03,02:21:23,meta,1-6 Years,Small (up to 30lbs),Purina
 Culinary Harvest Turkey Herring Kibble,2026-10-07,20:55:32,smas,7+ Years,Small (up to 30lbs),Blue Buffalo
 Culinary Harvest Turkey Herring Kibble,2026-10-06,18:36:43,smas,1-6 Years,Medium (31lbs to 69lbs),Purina
+Culinary Harvest Turkey Herring Kibble,2026-10-09,23:52:55,meta,7+ Years,Small (up to 30lbs),Other
 Culinary Harvest Turkey Herring Kibble,2026-09-04,23:02:08,meta,7+ Years,Small (up to 30lbs),Other
 Culinary Harvest Turkey Herring Kibble,2026-09-05,01:04:01,audience_1,1-6 Years,Small (up to 30lbs),Other
 Culinary Harvest Turkey Herring Kibble,2026-09-04,03:55:51,meta,7+ Years,Large (70lbs and over),Hill's Science Diet
@@ -3742,6 +3751,7 @@ Culinary Harvest Turkey Herring Kibble,2026-09-08,13:40:43,smas,1-6 Years,Small 
 Culinary Harvest Turkey Herring Kibble,2026-09-07,19:04:50,smas,7+ Years,Small (up to 30lbs),Nulo
 Culinary Harvest Turkey Herring Kibble,2026-10-08,21:15:43,smas,1-6 Years,Medium (31lbs to 69lbs),Purina
 Culinary Harvest Turkey Herring Kibble,2026-10-08,02:57:16,smas,1-6 Years,Medium (31lbs to 69lbs),Wellness Pet Food
+Culinary Harvest Turkey Herring Kibble,2026-10-09,23:40:32,meta,1-6 Years,Medium (31lbs to 69lbs),Blue Buffalo
 Culinary Harvest Turkey Herring Kibble,2026-09-08,00:24:51,smas,1-6 Years,Small (up to 30lbs),Open Farm
 Culinary Harvest Turkey Herring Kibble,2026-10-05,19:21:08,meta,1-6 Years,Small (up to 30lbs),Blue Buffalo
 Culinary Harvest Turkey Herring Kibble,2026-09-25,11:20:12,meta,1-6 Years,Medium (31lbs to 69lbs),Purina
@@ -4129,6 +4139,7 @@ Culinary Harvest Turkey Herring Kibble,2026-09-25,13:03:01,meta,1-6 Years,Medium
 Culinary Harvest Turkey Herring Kibble,2026-10-06,20:00:53,smas,7+ Years,Small (up to 30lbs),Purina
 Culinary Harvest Turkey Herring Kibble,2026-09-17,15:21:22,meta,1-6 Years,Small (up to 30lbs),Other
 Culinary Harvest Turkey Herring Kibble,2026-10-06,17:52:39,smas,1-6 Years,Large (70lbs and over),Other
+Culinary Harvest Turkey Herring Kibble,2026-10-10,00:28:53,meta,1-6 Years,Small (up to 30lbs),Other
 Culinary Harvest Turkey Herring Kibble,2026-10-05,21:24:39,meta,1-6 Years,Large (70lbs and over),Hill's Science Diet
 Culinary Harvest Turkey Herring Kibble,2026-09-14,19:42:48,audience_1,1-6 Years,Medium (31lbs to 69lbs),Blue Buffalo
 Culinary Harvest Turkey Herring Kibble,2026-09-02,01:12:50,meta,7+ Years,Small (up to 30lbs),Hill's Science Diet
